@@ -1,1 +1,1 @@
-web: tryswift --port=$PORT
+web: tryswift-server --port=$PORT
